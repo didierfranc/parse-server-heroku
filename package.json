@@ -1,0 +1,30 @@
+{
+  "name": "parse-server-heroku",
+  "version": "1.0.0",
+  "description": "Deploy Parse Server to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierfranc/parse-dashboard-heroku.git"
+  },
+  "keywords": [
+    "parse",
+    "dashboard",
+    "heroku"
+  ],
+  "author": "Didier Franc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didierfranc/parse-server-heroku/issues"
+  },
+  "homepage": "https://github.com/didierfranc/parse-dashboard-heroku#readme",
+  "dependencies": {
+    "parse-server": "^2.2.4"
+  },
+  "scripts": {
+    "start": "./node_modules/parse-server/bin/parse-server"
+  }
+}
