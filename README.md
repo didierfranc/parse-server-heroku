@@ -1,3 +1,6 @@
+![Parse Server logo](.github/logo.png?raw=true)
+
+
 # parse-server-heroku
 
 Deploy Parse server to Heroku
