@@ -7,5 +7,6 @@
     "PARSE_SERVER_APPLICATION_ID": "Define your Parse application ID",
     "PARSE_SERVER_MASTER_KEY": "Define your Parse master key",
     "PARSE_SERVER_MOUNT_PATH": "/"
-  }
+  },
+  "addons": [ "mongolab" ]
 }
