@@ -2,7 +2,7 @@
   "name": "Parse Server Heroku",
   "description": "Run Parse server on Heroku",
   "repository": "https://github.com/didierfranc/parse-server-heroku/",
-  "logo": "https://raw.githubusercontent.com/didierfranc/parse-server/master/logo.svg",
+  "logo": "https://avatars0.githubusercontent.com/u/1294580",
   "env": {
     "PARSE_SERVER_APPLICATION_ID": "Define your Parse application ID",
     "PARSE_SERVER_MASTER_KEY": "Define your Parse master key",
