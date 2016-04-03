@@ -1,4 +1,4 @@
-![Parse Server logo](.github/logo.png?raw=true)
+![Parse logo](logo.png?raw=true)
 
 
 # parse-server-heroku
