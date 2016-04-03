@@ -25,6 +25,6 @@
     "parse-server": "^2.2.4"
   },
   "scripts": {
-    "start": "./node_modules/parse-server/bin/parse-server"
+    "start": "PARSE_SERVER_DATABASE_URI=$MONGOLAB_URI & ./node_modules/parse-server/bin/parse-server"
   }
 }
