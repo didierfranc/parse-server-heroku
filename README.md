@@ -1,5 +1,4 @@
-![Parse logo](logo.png?raw=true)
-
+<img src="logo.png" width="100" height="100">
 
 # parse-server-heroku
 
