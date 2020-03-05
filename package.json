@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/didierfranc/parse-server-heroku#readme",
   "dependencies": {
-    "parse-server": "^2.2.9"
+    "parse-server": "^4.1.0"
   },
   "scripts": {
     "start": "./node_modules/parse-server/bin/parse-server --databaseURI $MONGOLAB_URI"
